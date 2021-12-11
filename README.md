@@ -1,6 +1,7 @@
 # Boom-Bikes-Prediction-Project
 Determining the predictor variables from a dataset that will affect the demand of bikes  at any day in a given year and building a model to predict the demand for it.
-Problem Statetment
+
+# Problem Statetment
 A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues. They have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market. The company wants to know:
 
 Which variables are significant in predicting the demand for shared bikes.
